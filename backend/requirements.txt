@@ -1,0 +1,5 @@
+# 运行期依赖（下限约束；可复现安装请用 requirements.lock.txt）
+fastapi>=0.110
+uvicorn>=0.27
+openpyxl>=3.1
+python-multipart>=0.0.9
